@@ -1,10 +1,9 @@
 """
 
-Snake Game Builder
+Snake Game
 It has been written by Nurullo Salaydinov Robocode IT Academy
-Note you can use it without other files
-
 If you don't like color you can change it
+This is for 📌 Salaydinov's Blog (https://t.me/salaydinovs_blog)
 
 """
 
